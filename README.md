@@ -2,7 +2,7 @@
 
 >  🧠 GPT Pilot wrote **95% of the code**. I was just monitoring the agents working and doing small tweaks. 
 
-> ⚡️ Watch the [full video](https://youtu.be/L2MNgP4XTAA) breaking down my process.
+> ⚡️ **Watch the [full video](https://youtu.be/L2MNgP4XTAA) breaking down my process.**
 
 The Typing Speed App is a modern web application designed to measure a user's typing speed in words per minute (wpm). It presents users with a short text which they need to type as quickly and accurately as possible. The application provides real-time visual feedback, marking correct characters in green and incorrect ones in red, and displays witty comments based on the user's typing speed. Built with a dark theme, the app offers a minimalistic and engaging user experience.
 
