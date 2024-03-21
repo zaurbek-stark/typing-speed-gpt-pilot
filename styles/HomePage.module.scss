@@ -1,0 +1,53 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background-color: #121212;
+  color: #ffffff;
+}
+
+.buttonsWrapper {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-bottom: 30px;
+}
+
+.difficultyButton,
+.startButton {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  background-color: #333333;
+  color: #ffffff;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s ease;
+}
+
+.startButton {
+  border-radius: 50px;
+  background-color: yellow;
+  color: #121212;
+}
+
+.startButton:hover {
+  background-color: rgb(255, 157, 0);
+}
+
+.difficultyButton:hover {
+  background-color: #444444;
+}
+
+.difficultyButton:focus,
+.startButton:focus {
+  border: 2px solid white;
+  background-color: #444444;
+}
+
+.startButton {
+  padding: 12px 25px;
+  font-weight: bold;
+}

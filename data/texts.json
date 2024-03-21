@@ -1,0 +1,14 @@
+{
+  "easy": [
+    "The quick brown fox jumps over the lazy dog",
+    "An apple a day keeps the doctor away"
+  ],
+  "medium": [
+    "Programming languages such as JavaScript, Python, and Ruby",
+    "Debugging is twice as hard as writing the code in the first place"
+  ],
+  "hard": [
+    "Despite the constant negative ipsum covfefe",
+    "In software engineering, performance profiling is the practice of measuring system performance"
+  ]
+}
